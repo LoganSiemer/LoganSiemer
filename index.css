@@ -1,0 +1,168 @@
+.parallax {
+
+        background-image: url("myself.jpg");
+
+        min-height: 500px;
+
+        background-attachment: fixed;
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+.button {
+    font-size: 0.90em;
+    background-color: #FF0000;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 15px 10px 15px;
+
+
+    color: black;
+}
+
+.blue-button {
+    font-size: 0.90em;
+    background-color: #335C8E;
+    text-decoration: none;
+    padding: 15px 30px 15px 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+.buttons {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: #DC0B0B;
+}
+
+body {
+    background-image: url("myself.jpg");
+    height: 550px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: blue;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.imglink {
+    width: 40px;
+    height: auto;
+    padding-right: 60px;
+    padding-left: 60px;
+}
+
+.imglink:hover {
+    width: 45px;
+}
+
+.imglink {
+    padding: 5px;
+}
+
+.content {
+    padding: 350px 200px 650px;
+    background-color: transparent;
+}
+
+.moreContent {
+    max-width: 1050px;
+    background-color: white;
+    padding: 0px 60px 0px 60px;
+}
+
+* {
+    margin: 0px;
+    font-size: 24px;
+}
+
+.box {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+}
+
+.box1 {
+    background-color: red;
+    top: 15px;
+    left: 15px;
+    z-index: 2;
+}
+
+.box2 {
+    background-color: yellow;
+    top: 37px;
+    left: 15px;
+    z-index: 1;
+}
+
+.box3 {
+    background-color: red;
+    top: 15px;
+    left: 59px;
+    z-index: 2;
+}
+
+.box4 {
+    background-color: yellow;
+    top: 15px;
+    left: 37px;
+    z-index: 1;
+}
+
+.box5 {
+    background-color: red;
+    top: 59px;
+    left: 15px;
+    z-index: 2;
+}
+
+.box6 {
+    background-color: yellow;
+    top: 37px;
+    left: 59px;
+    z-index: 1;
+}
+
+.box7 {
+    background-color: red;
+    top: 59px;
+    left: 59px;
+    z-index: 1;
+}
+
+.box8 {
+    background-color: yellow;
+    top: 59px;
+    left: 37px;
+    z-index: 1;
+}
+
+.box9 {
+    background-color: red;
+    top: 37px;
+    left: 37px;
+    z-index: 1;
+}
