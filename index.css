@@ -1,5 +1,6 @@
 .parallax {
-
+        display: flex;
+        justify-content: center;
         background-image: url("myself.jpg");
 
         min-height: 500px;
@@ -105,7 +106,7 @@ h3 {
     max-width: 1050px;
     background-color: white;
     padding: 0px 60px 0px 60px;
-    align-items: center;
+    align-content: center;
 }
 
 * {
