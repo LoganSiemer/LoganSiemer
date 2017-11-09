@@ -3,7 +3,8 @@
         justify-content: center;
         background-image: url("myself.jpg");
 
-        min-height: 500px;
+        min-height: 400px;
+        min-width: 400px
 
         background-attachment: fixed;
         background-position: left;
